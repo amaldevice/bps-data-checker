@@ -1,0 +1,377 @@
+var_id,title
+1,Inflasi Bulan ke Bulan
+160,Indeks Harga Konsumen
+161,Inflasi Year on Year
+162,Inflasi Tahun Kalender
+163,Inflasi Point to Point
+222,Inflasi Tahunan
+249,Indeks Harga Konsumen Kota Gorontalo Menurut Kelompok Pengeluaran (2018=100)
+250,Inflasi Bulanan (M-to-M) Kota Gorontalo Menurut Kelompok Pengeluaran (2018=100)
+251,Inflasi Tahun Kalender (Y-to-D) Kota Gorontalo Menurut Kelompok Pengeluaran (2018=100)
+252,Inflasi Tahunan (Y-on-Y) Kota Gorontalo Menurut Kelompok Pengeluaran (2018=100)
+371,Indeks Harga Konsumen Provinsi Gorontalo Menurut Kelompok Pengeluaran (2022=100)
+372,Inflasi Bulanan (M-to-M) Provinsi Gorontalo Menurut Kelompok Pengeluaran (2022=100)
+373,Inflasi Tahun Kalender (Y-to-D) Provinsi Gorontalo Menurut Kelompok Pengeluaran (2022=100)
+374,Inflasi Tahunan (Y-on-Y) Provinsi Gorontalo Menurut Kelompok Pengeluaran (2022=100)
+381,Indeks Harga Konsumen Menurut Kabupaten/Kota IHK di Provinsi Gorontalo (2022=100)
+99,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+335,Rata-rata Pengeluaran per Kapita Menurut Kelompok Makanan di Provinsi Gorontalo
+337,Pengeluaran Rata-rata Per Kapita Sebulan Menurut Golongan Pengeluaran dan Kelompok Pengeluaran (Makanan dan Bukan Makanan) di Provinsi Gorontalo
+339,Rata-rata Pengeluaran per Kapita Sebulan Makanan dan Bukan Makanan Menurut Kabupaten/Kota di Provinsi Gorontalo
+341,Rata-rata Pengeluaran per Kapita Sebulan Makanan dan Bukan Makanan Menurut Kabupaten/Kota di Provinsi Gorontalo
+46,Jumlah Penduduk Provinsi Gorontalo
+47,Angka Harapan Hidup Saat Lahir (AHH) Provinsi Gorontalo
+48,Angka Melek Huruf (AMH) Provinsi Gorontalo
+49,Jumlah Rumah Tangga Provinsi Gorontalo
+50,Jumlah Keluarga Besar dan Keluarga Inti Provinsi Gorontalo
+51,Rata-rata Jumlah Anggota Rumah Tangga Provinsi Gorontalo
+52,Rata-rata Jumlah Anggota Keluarga Provinsi Gorontalo
+53,Jumlah Penduduk Berumur 10 Tahun ke Atas yang Bekerja Provinsi Gorontalo
+54,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Provinsi Gorontalo
+55,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Tidak Bekerja Provinsi Gorontalo
+56,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Sekolah Provinsi Gorontalo
+57,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Tidak Sekolah dan Tidak Bekerja Provinsi Gorontalo
+58,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Sekolah dan Bekerja Provinsi Gorontalo
+59,Tingkat Partisipasi Angkatan Kerja (TPAK) Provinsi Gorontalo
+60,Tingkat Partisipasi Sekolah (TPS) Provinsi Gorontalo
+61,Tingkat Pengangguran Terbuka (TPT) Provinsi Gorontalo
+62,Rata-rata Lama Sekolah Provinsi Gorontalo
+63,Indeks Pembangunan Manusia (IPM) Provinsi Gorontalo
+64,Indeks Pembangunan Manusia (IPM) Provinsi Gorontalo
+67,Pertumbuhan Ekonomi Provinsi Gorontalo
+68,PDRB atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Provinsi Gorontalo
+69,PDRB atas Dasar Harga Berlaku Menurut Lapangan Usaha di Provinsi Gorontalo
+70,PDRB per Kapita atas Dasar Harga Konstan 2010 di Provinsi Gorontalo
+71,PDRB per Kapita atas Dasar Harga Berlaku di Provinsi Gorontalo
+72,Distribusi Persentase PDRB atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Provinsi Gorontalo
+73,Distribusi Persentase PDRB atas Dasar Harga Berlaku Menurut Lapangan Usaha di Provinsi Gorontalo
+74,Jumlah Desa/Kelurahan Provinsi Gorontalo
+75,Jumlah Desa/Kelurahan yang Memiliki Sarana Kesehatan Provinsi Gorontalo
+76,Jumlah Desa/Kelurahan yang Memiliki Sarana Pendidikan Provinsi Gorontalo
+77,Jumlah Desa/Kelurahan yang Memiliki Akses Air Bersih Provinsi Gorontalo
+78,Jumlah Desa/Kelurahan yang Memiliki Akses Listrik Provinsi Gorontalo
+79,Jumlah Desa/Kelurahan yang Memiliki Sarana Transportasi Provinsi Gorontalo
+80,Jumlah Desa/Kelurahan yang Memiliki Telepon Provinsi Gorontalo
+81,Jumlah Desa/Kelurahan yang Memiliki Sarana Komunikasi Provinsi Gorontalo
+82,Persentase Desa/Kelurahan yang Memiliki Sarana Kesehatan Provinsi Gorontalo
+83,Persentase Desa/Kelurahan yang Memiliki Sarana Pendidikan Provinsi Gorontalo
+84,Persentase Desa/Kelurahan yang Memiliki Akses Air Bersih Provinsi Gorontalo
+85,Persentase Desa/Kelurahan yang Memiliki Akses Listrik Provinsi Gorontalo
+86,Persentase Desa/Kelurahan yang Memiliki Sarana Transportasi Provinsi Gorontalo
+87,Persentase Desa/Kelurahan yang Memiliki Telepon Provinsi Gorontalo
+88,Persentase Desa/Kelurahan yang Memiliki Sarana Komunikasi Provinsi Gorontalo
+89,Jumlah Penduduk Miskin Provinsi Gorontalo
+90,Garis Kemiskinan Provinsi Gorontalo
+91,Indeks Kedalaman Kemiskinan (P1) Provinsi Gorontalo
+92,Indeks Keparahan Kemiskinan (P2) Provinsi Gorontalo
+93,Pengeluaran per Kapita Provinsi Gorontalo
+94,Jumlah Penduduk dengan Pendidikan Minimal SMA/SMK/MA Sederajat Provinsi Gorontalo
+95,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat ke Atas Provinsi Gorontalo
+96,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat ke Atas Provinsi Gorontalo
+97,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat ke Atas Provinsi Gorontalo
+98,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat ke Atas Provinsi Gorontalo
+99,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+100,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+101,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+102,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+103,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+104,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+105,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
+106,Jumlah Penduduk Berumur 10 Tahun ke Atas Menurut Tingkat Pendidikan yang Ditamatkan di Provinsi Gorontalo
+107,Jumlah Penduduk Berumur 15 Tahun ke Atas Menurut Tingkat Pendidikan yang Ditamatkan di Provinsi Gorontalo
+108,Jumlah Penduduk Berumur 25 Tahun ke Atas Menurut Tingkat Pendidikan yang Ditamatkan di Provinsi Gorontalo
+109,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Lapangan Pekerjaan di Provinsi Gorontalo
+110,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Status Pekerjaan di Provinsi Gorontalo
+111,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Status Ketenagakerjaan di Provinsi Gorontalo
+112,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Jenis Kelamin di Provinsi Gorontalo
+113,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Kelompok Umur di Provinsi Gorontalo
+114,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Kabupaten/Kota di Provinsi Gorontalo
+115,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Lapangan Pekerjaan Utama di Provinsi Gorontalo
+116,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Status Pekerjaan Utama di Provinsi Gorontalo
+117,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Status Ketenagakerjaan Utama di Provinsi Gorontalo
+118,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Jenis Kelamin Utama di Provinsi Gorontalo
+119,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Kelompok Umur Utama di Provinsi Gorontalo
+120,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Kabupaten/Kota Utama di Provinsi Gorontalo
+121,Tingkat Pengangguran Terbuka (TPT) Provinsi Gorontalo
+122,Tingkat Partisipasi Angkatan Kerja (TPAK) Provinsi Gorontalo
+123,Tingkat Partisipasi Sekolah (TPS) Provinsi Gorontalo
+124,Rata-rata Lama Sekolah Provinsi Gorontalo
+125,Indeks Pembangunan Manusia (IPM) Provinsi Gorontalo
+126,Angka Harapan Hidup Saat Lahir (AHH) Provinsi Gorontalo
+127,Angka Melek Huruf (AMH) Provinsi Gorontalo
+128,Jumlah Penduduk Miskin Provinsi Gorontalo
+129,Garis Kemiskinan Provinsi Gorontalo
+130,Indeks Kedalaman Kemiskinan (P1) Provinsi Gorontalo
+131,Indeks Keparahan Kemiskinan (P2) Provinsi Gorontalo
+132,Pengeluaran per Kapita Provinsi Gorontalo
+133,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+134,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+135,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+136,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+137,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+138,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+139,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
+140,Jumlah Penduduk Berumur 10 Tahun ke Atas Menurut Tingkat Pendidikan yang Ditamatkan di Provinsi Gorontalo
+141,Jumlah Penduduk Berumur 15 Tahun ke Atas Menurut Tingkat Pendidikan yang Ditamatkan di Provinsi Gorontalo
+142,Jumlah Penduduk Berumur 25 Tahun ke Atas Menurut Tingkat Pendidikan yang Ditamatkan di Provinsi Gorontalo
+143,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Lapangan Pekerjaan di Provinsi Gorontalo
+144,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Status Pekerjaan di Provinsi Gorontalo
+145,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Status Ketenagakerjaan di Provinsi Gorontalo
+146,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Jenis Kelamin di Provinsi Gorontalo
+147,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Kelompok Umur di Provinsi Gorontalo
+148,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Kabupaten/Kota di Provinsi Gorontalo
+149,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Lapangan Pekerjaan Utama di Provinsi Gorontalo
+150,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Status Pekerjaan Utama di Provinsi Gorontalo
+151,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Status Ketenagakerjaan Utama di Provinsi Gorontalo
+152,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Jenis Kelamin Utama di Provinsi Gorontalo
+153,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Kelompok Umur Utama di Provinsi Gorontalo
+154,Jumlah Penduduk Berumur 15 Tahun ke Atas yang Bekerja Menurut Kabupaten/Kota Utama di Provinsi Gorontalo
+155,Tingkat Pengangguran Terbuka (TPT) Provinsi Gorontalo
+156,Rasio Gini Provinsi Gorontalo
+157,Tingkat Partisipasi Angkatan Kerja (TPAK) Provinsi Gorontalo
+158,Tingkat Partisipasi Sekolah (TPS) Provinsi Gorontalo
+159,Rata-rata Lama Sekolah Provinsi Gorontalo
+160,Indeks Pembangunan Manusia (IPM) Provinsi Gorontalo
+161,Angka Harapan Hidup Saat Lahir (AHH) Provinsi Gorontalo
+162,Angka Melek Huruf (AMH) Provinsi Gorontalo
+163,Jumlah Penduduk Miskin Provinsi Gorontalo
+164,Garis Kemiskinan Provinsi Gorontalo
+165,Indeks Kedalaman Kemiskinan (P1) Provinsi Gorontalo
+166,Indeks Keparahan Kemiskinan (P2) Provinsi Gorontalo
+167,Pengeluaran per Kapita Provinsi Gorontalo
+168,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+169,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+170,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+171,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+172,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+173,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+174,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
+175,Tingkat Pengangguran Terbuka Provinsi Gorontalo
+176,Tingkat Partisipasi Angkatan Kerja Provinsi Gorontalo
+177,Tingkat Partisipasi Sekolah Provinsi Gorontalo
+178,Rata-rata Lama Sekolah Provinsi Gorontalo
+179,Indeks Pembangunan Manusia Provinsi Gorontalo
+180,Angka Harapan Hidup Saat Lahir Provinsi Gorontalo
+181,Nilai Tukar Petani Provinsi Gorontalo
+182,Nilai Tukar Nelayan Provinsi Gorontalo
+183,Jumlah Penduduk Miskin Provinsi Gorontalo
+184,Garis Kemiskinan Provinsi Gorontalo
+185,Indeks Kedalaman Kemiskinan Provinsi Gorontalo
+186,Indeks Keparahan Kemiskinan Provinsi Gorontalo
+187,Pengeluaran per Kapita Provinsi Gorontalo
+188,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+189,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+190,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+191,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+192,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+193,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+194,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
+195,Tingkat Pengangguran Terbuka Provinsi Gorontalo
+196,Rasio Gini Provinsi Gorontalo
+197,Tingkat Partisipasi Angkatan Kerja Provinsi Gorontalo
+198,Tingkat Partisipasi Sekolah Provinsi Gorontalo
+199,Rata-rata Lama Sekolah Provinsi Gorontalo
+200,Indeks Pembangunan Manusia Provinsi Gorontalo
+201,Angka Harapan Hidup Saat Lahir Provinsi Gorontalo
+202,Angka Melek Huruf Provinsi Gorontalo
+203,Jumlah Penduduk Miskin Provinsi Gorontalo
+204,Garis Kemiskinan Provinsi Gorontalo
+205,Indeks Kedalaman Kemiskinan Provinsi Gorontalo
+206,Indeks Keparahan Kemiskinan Provinsi Gorontalo
+207,Pengeluaran per Kapita Provinsi Gorontalo
+208,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+209,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+210,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+211,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+212,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+213,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+214,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
+215,Tingkat Pengangguran Terbuka Provinsi Gorontalo
+216,Rasio Gini Provinsi Gorontalo
+217,Tingkat Partisipasi Angkatan Kerja Provinsi Gorontalo
+218,Tingkat Partisipasi Sekolah Provinsi Gorontalo
+219,Rata-rata Lama Sekolah Provinsi Gorontalo
+220,Indeks Pembangunan Manusia Provinsi Gorontalo
+221,Angka Harapan Hidup Saat Lahir Provinsi Gorontalo
+222,Angka Melek Huruf Provinsi Gorontalo
+223,Jumlah Penduduk Miskin Provinsi Gorontalo
+224,Garis Kemiskinan Provinsi Gorontalo
+225,Indeks Kedalaman Kemiskinan Provinsi Gorontalo
+226,Indeks Keparahan Kemiskinan Provinsi Gorontalo
+227,Pengeluaran per Kapita Provinsi Gorontalo
+228,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+229,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+230,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+231,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+232,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+233,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+234,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
+235,Tingkat Pengangguran Terbuka Provinsi Gorontalo
+236,Rasio Gini Provinsi Gorontalo
+237,Tingkat Partisipasi Angkatan Kerja Provinsi Gorontalo
+238,Tingkat Partisipasi Sekolah Provinsi Gorontalo
+239,Rata-rata Lama Sekolah Provinsi Gorontalo
+240,Indeks Pembangunan Manusia Provinsi Gorontalo
+241,Angka Harapan Hidup Saat Lahir Provinsi Gorontalo
+242,Angka Melek Huruf Provinsi Gorontalo
+243,Jumlah Penduduk Miskin Provinsi Gorontalo
+244,Garis Kemiskinan Provinsi Gorontalo
+245,Indeks Kedalaman Kemiskinan Provinsi Gorontalo
+246,Indeks Keparahan Kemiskinan Provinsi Gorontalo
+247,Pengeluaran per Kapita Provinsi Gorontalo
+248,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+249,Indeks Harga Konsumen Kota Gorontalo Menurut Kelompok Pengeluaran (2018=100)
+250,Inflasi Bulanan (M-to-M) Kota Gorontalo Menurut Kelompok Pengeluaran (2018=100)
+251,Inflasi Tahun Kalender (Y-to-D) Kota Gorontalo Menurut Kelompok Pengeluaran (2018=100)
+252,Inflasi Tahunan (Y-on-Y) Kota Gorontalo Menurut Kelompok Pengeluaran (2018=100)
+253,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+254,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+255,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+256,Nilai Tukar Petani Provinsi Gorontalo
+257,Nilai Tukar Nelayan Provinsi Gorontalo
+258,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+259,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+260,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
+261,Tingkat Pengangguran Terbuka Provinsi Gorontalo
+262,Rasio Gini Provinsi Gorontalo
+263,Tingkat Partisipasi Angkatan Kerja Provinsi Gorontalo
+264,Tingkat Partisipasi Sekolah Provinsi Gorontalo
+265,Rata-rata Lama Sekolah Provinsi Gorontalo
+266,Indeks Pembangunan Manusia Provinsi Gorontalo
+267,Angka Harapan Hidup Saat Lahir Provinsi Gorontalo
+268,Angka Melek Huruf Provinsi Gorontalo
+269,Jumlah Penduduk Miskin Provinsi Gorontalo
+270,Garis Kemiskinan Provinsi Gorontalo
+271,Indeks Kedalaman Kemiskinan Provinsi Gorontalo
+272,Indeks Keparahan Kemiskinan Provinsi Gorontalo
+273,Pengeluaran per Kapita Provinsi Gorontalo
+274,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+275,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+276,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+277,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+278,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+279,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+280,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
+281,Tingkat Pengangguran Terbuka Provinsi Gorontalo
+282,Rasio Gini Provinsi Gorontalo
+283,Tingkat Partisipasi Angkatan Kerja Provinsi Gorontalo
+284,Tingkat Partisipasi Sekolah Provinsi Gorontalo
+285,Rata-rata Lama Sekolah Provinsi Gorontalo
+286,Indeks Pembangunan Manusia Provinsi Gorontalo
+287,Jumlah Penduduk Miskin Provinsi Gorontalo
+288,Garis Kemiskinan Provinsi Gorontalo
+289,Indeks Kedalaman Kemiskinan Provinsi Gorontalo
+290,Indeks Keparahan Kemiskinan Provinsi Gorontalo
+291,Pengeluaran per Kapita Provinsi Gorontalo
+292,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+293,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+294,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+295,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+296,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+297,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+298,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
+299,Tingkat Pengangguran Terbuka Provinsi Gorontalo
+300,Rasio Gini Provinsi Gorontalo
+301,Tingkat Partisipasi Angkatan Kerja Provinsi Gorontalo
+302,Tingkat Partisipasi Sekolah Provinsi Gorontalo
+303,Rata-rata Lama Sekolah Provinsi Gorontalo
+304,Indeks Pembangunan Manusia Provinsi Gorontalo
+305,Angka Harapan Hidup Saat Lahir Provinsi Gorontalo
+306,Angka Melek Huruf Provinsi Gorontalo
+307,Jumlah Penduduk Miskin Provinsi Gorontalo
+308,Garis Kemiskinan Provinsi Gorontalo
+309,Indeks Kedalaman Kemiskinan Provinsi Gorontalo
+310,Indeks Keparahan Kemiskinan Provinsi Gorontalo
+311,Pengeluaran per Kapita Provinsi Gorontalo
+312,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+313,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+314,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+315,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+316,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+317,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+318,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
+318,Tingkat Pengangguran Terbuka Provinsi Gorontalo
+319,Rasio Gini Provinsi Gorontalo
+320,Tingkat Partisipasi Angkatan Kerja Provinsi Gorontalo
+321,Tingkat Partisipasi Sekolah Provinsi Gorontalo
+322,Rata-rata Lama Sekolah Provinsi Gorontalo
+323,Indeks Pembangunan Manusia Provinsi Gorontalo
+324,Angka Harapan Hidup Saat Lahir Provinsi Gorontalo
+325,Angka Melek Huruf Provinsi Gorontalo
+326,Jumlah Penduduk Miskin Provinsi Gorontalo
+327,Garis Kemiskinan Provinsi Gorontalo
+328,Indeks Kedalaman Kemiskinan Provinsi Gorontalo
+329,Indeks Keparahan Kemiskinan Provinsi Gorontalo
+330,Pengeluaran per Kapita Provinsi Gorontalo
+331,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+332,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+333,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+334,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+335,Rata-rata Pengeluaran per Kapita Menurut Kelompok Makanan di Provinsi Gorontalo
+336,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+337,Pengeluaran Rata-rata Per Kapita Sebulan Menurut Golongan Pengeluaran dan Kelompok Pengeluaran (Makanan dan Bukan Makanan) di Provinsi Gorontalo
+338,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+339,Rata-rata Pengeluaran per Kapita Sebulan Makanan dan Bukan Makanan Menurut Kabupaten/Kota di Provinsi Gorontalo
+340,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
+341,Rata-rata Pengeluaran per Kapita Sebulan Makanan dan Bukan Makanan Menurut Kabupaten/Kota di Provinsi Gorontalo
+342,Tingkat Pengangguran Terbuka Provinsi Gorontalo
+343,Rasio Gini Provinsi Gorontalo
+344,Tingkat Partisipasi Angkatan Kerja Provinsi Gorontalo
+345,Tingkat Partisipasi Sekolah Provinsi Gorontalo
+346,Rata-rata Lama Sekolah Provinsi Gorontalo
+347,Indeks Pembangunan Manusia Provinsi Gorontalo
+348,Angka Harapan Hidup Saat Lahir Provinsi Gorontalo
+349,Angka Melek Huruf Provinsi Gorontalo
+350,Jumlah Penduduk Miskin Provinsi Gorontalo
+351,Garis Kemiskinan Provinsi Gorontalo
+352,Indeks Kedalaman Kemiskinan Provinsi Gorontalo
+353,Indeks Keparahan Kemiskinan Provinsi Gorontalo
+354,Pengeluaran per Kapita Provinsi Gorontalo
+355,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+356,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+357,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+358,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+359,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+360,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+361,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
+362,Tingkat Pengangguran Terbuka Provinsi Gorontalo
+363,Indeks Pembangunan Manusia Provinsi Gorontalo
+364,Angka Harapan Hidup Saat Lahir Provinsi Gorontalo
+365,Angka Melek Huruf Provinsi Gorontalo
+366,Jumlah Penduduk Miskin Provinsi Gorontalo
+367,Garis Kemiskinan Provinsi Gorontalo
+368,Indeks Kedalaman Kemiskinan Provinsi Gorontalo
+369,Indeks Keparahan Kemiskinan Provinsi Gorontalo
+370,Pengeluaran per Kapita Provinsi Gorontalo
+371,Indeks Harga Konsumen Provinsi Gorontalo Menurut Kelompok Pengeluaran (2022=100)
+372,Inflasi Bulanan (M-to-M) Provinsi Gorontalo Menurut Kelompok Pengeluaran (2022=100)
+373,Inflasi Tahun Kalender (Y-to-D) Provinsi Gorontalo Menurut Kelompok Pengeluaran (2022=100)
+374,Inflasi Tahunan (Y-on-Y) Provinsi Gorontalo Menurut Kelompok Pengeluaran (2022=100)
+375,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+376,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+377,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+378,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+379,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+380,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+381,Indeks Harga Konsumen Menurut Kabupaten/Kota IHK di Provinsi Gorontalo (2022=100)
+382,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
+383,Tingkat Pengangguran Terbuka Provinsi Gorontalo
+384,Rasio Gini Provinsi Gorontalo
+385,Tingkat Partisipasi Angkatan Kerja Provinsi Gorontalo
+386,Tingkat Partisipasi Sekolah Provinsi Gorontalo
+387,Rata-rata Lama Sekolah Provinsi Gorontalo
+388,Indeks Pembangunan Manusia Provinsi Gorontalo
+389,Angka Harapan Hidup Saat Lahir Provinsi Gorontalo
+390,Angka Melek Huruf Provinsi Gorontalo
+391,Jumlah Penduduk Miskin Provinsi Gorontalo
+392,Garis Kemiskinan Provinsi Gorontalo
+393,Indeks Kedalaman Kemiskinan Provinsi Gorontalo
+394,Indeks Keparahan Kemiskinan Provinsi Gorontalo
+395,Pengeluaran per Kapita Provinsi Gorontalo
+396,Pengeluaran Rata-rata per Kapita Sebulan Kelompok Nonmakanan di Provinsi Gorontalo
+397,Jumlah Penduduk dengan Pendidikan Minimal Sekolah Dasar Sederajat Provinsi Gorontalo
+398,Jumlah Penduduk dengan Pendidikan Minimal SLTP/Sederajat Provinsi Gorontalo
+399,Jumlah Penduduk dengan Pendidikan Minimal SLTA/Sederajat Provinsi Gorontalo
+400,Jumlah Penduduk dengan Pendidikan Minimal Akademi/Diploma/Sederajat Provinsi Gorontalo
+401,Jumlah Penduduk dengan Pendidikan Minimal Sarjana/Sederajat Provinsi Gorontalo
+402,Jumlah Penduduk dengan Pendidikan Minimal Pasca Sarjana/Sederajat Provinsi Gorontalo
